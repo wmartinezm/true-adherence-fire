@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "true-adherence-fire": {
+      "hosting": {
+        "true-adherence-fire": [
+          "true-adherence-fire"
+        ]
+      }
+    }
+  }
+}
